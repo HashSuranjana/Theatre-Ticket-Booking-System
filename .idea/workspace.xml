@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dbf9475-486a-47f7-9c8a-e71adb1fbd8f" name="Changes" comment="" />
+    <list default="true" id="8dbf9475-486a-47f7-9c8a-e71adb1fbd8f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Theatre/src/Theatre.java" beforeDir="false" afterPath="$PROJECT_DIR$/Theatre/src/Theatre.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2ZI3lxYNAdqglx5cPZbBV3n0sfa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,6 +28,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Asus/Documents/My Works/Java Testing/Coursework",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -40,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1702095920926</updated>
       <workItem from="1702095921966" duration="2965000" />
+      <workItem from="1711900552444" duration="584000" />
     </task>
     <servers />
   </component>
